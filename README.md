@@ -6,7 +6,7 @@ Stay tuned for the release of our camera-ready paper and detailed training instr
 
 
 
-![](figures\illustration.png)
+![](https://raw.githubusercontent.com/zwebzone/terra/main/figures/illustration.png)
 
 
 
