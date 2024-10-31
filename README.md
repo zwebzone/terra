@@ -6,7 +6,7 @@ Stay tuned for the release of our camera-ready paper and detailed training instr
 
 
 
-![](./figures\illustration.png)
+![](figures\illustration.png)
 
 
 
